@@ -1,1 +1,1 @@
-# iterate-odd-numbers-with-a-for-loop.txt
+# iterate-odd-numbers-with-a-for-loop.js
